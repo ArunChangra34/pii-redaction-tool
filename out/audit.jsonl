@@ -1,0 +1,635 @@
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH INTERNATIONAL LIMITED", "surrogate": "BUMB-MURTY LIMITED"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "U28129PN1979PLC141032", "surrogate": "U63506RH1963PLC302966"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH INTERNATIONAL LIMITED", "surrogate": "BUMB-MURTY LIMITED"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Bhandary Metal Extrusion Private Limited", "surrogate": "Suri-Rana Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Bhandary Metal Extrusion Private Limited", "surrogate": "Suri-Rana Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Private Limited", "surrogate": "Narain Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Limited", "surrogate": "Bumb-Murty Limited"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "U28129PN1979PLC141032", "surrogate": "U63506RH1963PLC302966"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.9, "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India;", "surrogate": "15/841, Devan, Kharagpur-117863"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.9, "original": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India;", "surrogate": "63/490, Goswami Chowk, Chandigarh-224438"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 20 4505 3237", "surrogate": "+ 91 76 0261 3688"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "cs.connect@kshinternational.com", "surrogate": "wparmar@bumbmurty.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.kshinternational.com", "surrogate": "www.bumbmurty.com"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Limited", "surrogate": "Bumb-Murty Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India", "surrogate": "H.No. 28, Yadav Ganj, Bhind-312787"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India", "surrogate": "512, Dara Street, Bikaner 490005"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "https://kshinternational.com/investor-relations/industry-report/", "surrogate": "https://bumbmurty.com/investor-relations/industry-report/"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust and Waterloo Industrial Park VI Private Limited", "surrogate": "Devan Karnik and Pingle"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sandesh Bhagwat", "surrogate": "Ijaya Dubey"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Amod Joshi", "surrogate": "Aradhana Barad"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ganesh Prasad", "surrogate": "Brinda Tripathi"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Care Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Bharat Bijlee Limited", "surrogate": "Dash-Sani Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CG Power and Industrial Solutions Limited", "surrogate": "Morar-Chauhan Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Emirates Transformer & Switchgear Limited", "surrogate": "Kara Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Georgia Transformer Corporation", "surrogate": "Mani-Issac Corporation"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nidec Industrial Automation India Private Limited", "surrogate": "Chana Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Virginia Transformer Corporation", "surrogate": "Rama-Wali Corporation"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Ahlstrom Sweden AB", "surrogate": "Sunder-Thaman AB"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Cindus Corporation", "surrogate": "Bhatia Corporation"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Elantas Beck India Limited", "surrogate": "Maharaj-Baria Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Hindalco Industries Limited", "surrogate": "Prashad-Ramesh Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Polycom Associates", "surrogate": "Seshadri-Menon Associates"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Savli Copper Products Private Limited", "surrogate": "Chaudhari-Toor Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Union Copper Rod LLC", "surrogate": "Pai-Shroff LLC"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Vedanta Limited", "surrogate": "Padmanabhan Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International", "surrogate": "Bumb-Murty"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Private Limited", "surrogate": "Narain Group Private Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Bhandary Metal Extrusion Private Limited", "surrogate": "Suri-Rana Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Private Limited", "surrogate": "Narain Group Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanj and Co LLP", "surrogate": "Bhandari-Bhardwaj LLP"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar N. Bhandary", "surrogate": "Adya E. Vala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Narayna B. Shetty", "surrogate": "Victor Y. Pal"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Jayaram N. Shetty", "surrogate": "Devika A. Savant"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Care Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "https://kshinternational.com/investor-relations/industry-report/", "surrogate": "https://bumbmurty.com/investor-relations/industry-report/"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sandesh Bhagwat", "surrogate": "Ijaya Dubey"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Amod Joshi", "surrogate": "Aradhana Barad"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ganesh Prasad", "surrogate": "Brinda Tripathi"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "phase II", "surrogate": "89/44, Patla Ganj, Agra-061765"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Care Ratings Limited", "surrogate": "Behl Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Dinesh Hirachand Munot", "surrogate": "Madhavi Unni Vasa"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ajay Shriram Patil", "surrogate": "Zinal Vamakshi Chander"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Motors Private Limited", "surrogate": "Acharya-Sankar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Project Management Services Private Limited", "surrogate": "Sura-Nagy Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park 5 Private Limited", "surrogate": "Mannan-Handa Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park VI Private Limited", "surrogate": "Kamdar-Bose Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Distriparks Private Limited", "surrogate": "Parekh-Choudhry Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Integrated Logistics Private Limited", "surrogate": "Madan Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kushal Motors and Electricals Private Limited", "surrogate": "Choudhary Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park I Private Limited", "surrogate": "Karnik Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park II Private Limited", "surrogate": "Radhakrishnan Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park III Private Limited", "surrogate": "Raju Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IV Private Limited", "surrogate": "Kakar-Shah Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park V Private Limited", "surrogate": "Saraf-Dani Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park VI Private Limited", "surrogate": "Kade-Datta Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park VIII Private Limited", "surrogate": "Upadhyay Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX Private Limited", "surrogate": "Dua-Barad Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX B Private Limited", "surrogate": "Balakrishnan Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX A Private Limited", "surrogate": "Sibal-Parmar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park IV Private Limited", "surrogate": "Ghosh Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Hegde", "surrogate": "Jackson Nanda"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Limited", "surrogate": "Bumb-Murty Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Village Birdewadi", "surrogate": "94/98, Chaudhary Ganj, Kolhapur 208376"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Limited", "surrogate": "Bumb-Murty Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Montreal Business Centre", "surrogate": "H.No. 793, Tella, Nagaon 914621"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Off Pallod Farms", "surrogate": "45/72, Misra Street, Dhule-218458"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Pune 411 045 Maharashtra, India", "surrogate": "H.No. 62, Mishra Zila, Latur 249609"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "U28129PN1979PLC141032", "surrogate": "U63506RH1963PLC302966"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India", "surrogate": "63, Chaudhary Path, South Dumdum 960756"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Village Birdewadi", "surrogate": "94/98, Chaudhary Ganj, Kolhapur 208376"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Taluka Khed, District Pune – 410 501", "surrogate": "H.No. 170, Chatterjee Zila, Hosur 867056"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 20 45053237", "surrogate": "+ 91 56 21540260"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "Sarthak.malvadkar@kshinterantional.com", "surrogate": "chaman.nath@munshikorpal.com"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Wing A", "surrogate": "96/44, Mani Path, Jamalpur 382616"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Inspire BKC", "surrogate": "75/77, Hayer Street, Proddatur 028751"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "G Block", "surrogate": "83/94, Mohanty Path, Madhyamgram-997911"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Bandra Kurla Complex", "surrogate": "H.No. 80, Rama Path, Rewa-264297"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Bandra East, Mumbai – 400 051 Maharashtra, India", "surrogate": "43/816, Suresh Circle, Kota 776869"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 40094400", "surrogate": "+91 45 40429824"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh.ipo@nuvama.com", "surrogate": "benyoshita@ganeshltd.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.nuvama.com", "surrogate": "www.ganeshltd.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "customerservice.mb@nuvama.com", "surrogate": "kdhar@ganeshltd.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Lokesh Shah", "surrogate": "Eiravati Manne"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Soumavo Sarkar", "surrogate": "Dalaja Chad"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INM000013004", "surrogate": "INM623321755"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India", "surrogate": "00/413, Prashad Ganj, Tiruchirappalli 229326"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 6807 7100", "surrogate": "+91 36 2811 7514"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh@icicisecurities.com", "surrogate": "abhimanyu17@bhat.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicisecurities.com", "surrogate": "www.bhat.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "customercare@icicisecurities.com", "surrogate": "haritapatla@bhat.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kishan Rastogi", "surrogate": "Charita Mody"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Abhijit Diwan", "surrogate": "Lohit Bassi"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INM000011179", "surrogate": "INM584118193"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Wing A", "surrogate": "96/44, Mani Path, Jamalpur 382616"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Building No 3", "surrogate": "685, Bahri Path, Kottayam-791956"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Inspire BKC", "surrogate": "75/77, Hayer Street, Proddatur 028751"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "G Block", "surrogate": "83/94, Mohanty Path, Madhyamgram-997911"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Bandra Kurla Complex, Bandra East Mumbai 400 051", "surrogate": "H.No. 35, Balan, Bathinda 563874"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 22 4009 4400", "surrogate": "+ 91 74 6663 3566"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh.ipo@nuvama.com", "surrogate": "benyoshita@ganeshltd.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "prakash.boricha@nuvama.com", "surrogate": "gaurangi.dutt@ganeshltd.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "sheetal.parab@nuvama.com", "surrogate": "chakradharvaidya@ganeshltd.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.nuvama.com", "surrogate": "www.ganeshltd.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Prakash Boricha", "surrogate": "Gaurangi Dutt"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INZ000166136", "surrogate": "INZ961424454"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India", "surrogate": "00/413, Prashad Ganj, Tiruchirappalli 229326"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 6807 7100", "surrogate": "+91 36 2811 7514"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh@icicisecurities.com", "surrogate": "abhimanyu17@bhat.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicisecurities.com", "surrogate": "www.bhat.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "customercare@icicisecurities.com", "surrogate": "haritapatla@bhat.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kishan Rastogi", "surrogate": "Charita Mody"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Abhijit Diwan", "surrogate": "Lohit Bassi"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INM000011179", "surrogate": "INM584118193"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Senapati Bapat Marg, Lower Parel (West) Mumbai – 400 013", "surrogate": "H.No. 487, Lad Ganj, Chapra-291006"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ipo@trilegal.com", "surrogate": "warhibehl@balibakshiandjohal.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 4079 1000", "surrogate": "+91 12 5194 8864"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MUFG Intime India Private Limited", "surrogate": "Khalsa-Kumar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Link Intime India Private Limited", "surrogate": "Desai-Bhasin Private Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Embassy 247", "surrogate": "76/67, Dhillon Circle, North Dumdum 344169"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "1st Floor, L B S Marg, Vikhroli (West) Mumbai 400083, (Maharashtra), India", "surrogate": "07/606, Mandal Zila, Patna-439296"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 81081 14949", "surrogate": "+91 93777 52787"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "kshinternational.ipo@in.mpms.mufg.com", "surrogate": "lokeojasvi@balikala.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "kshinternational.ipo@in.mpms.mufg.com", "surrogate": "lokeojasvi@balikala.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.in.mpms.mufg.com", "surrogate": "www.balikala.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Shanti Gopalkrishnan", "surrogate": "Charan Vasa"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INR000004058", "surrogate": "INR777839474"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "U67190MH1999PTC118368", "surrogate": "L16290FE1991PLC299468"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India", "surrogate": "18/61, Patla Ganj, Barasat 058659"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752929", "surrogate": "+91 19 09779625"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752928", "surrogate": "+91 32 69124452"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752914", "surrogate": "+91 04 04844390"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "siddharth.jadhav@hdfcbank.com", "surrogate": "gagan.khosla@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "sachin.gawade@hdfcbank.com", "surrogate": "nikita.bose@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "eric.bacha@hdfcbank.com", "surrogate": "yuvraj.sachdev@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "tushar.gavankar@hdfcbank.com", "surrogate": "isaiah.panchal@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "pravin.teli2@hdfcbank.com", "surrogate": "vamakshi.teli2@dadagroup.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.hdfcbank.com", "surrogate": "www.dadagroup.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Eric Bacha", "surrogate": "Yuvraj Sachdev"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sachin Gawade", "surrogate": "Nikita Bose"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pravin Teli", "surrogate": "Vamakshi Chakrabarti"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Siddharth Jadhav", "surrogate": "Gagan Khosla"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Tushar Gavankar", "surrogate": "Isaiah Panchal"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INBI00000063", "surrogate": "INBI94761497"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "L65920MH1994PLC080618", "surrogate": "L60070BU2021LTD686938"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank Limited", "surrogate": "Sandhu Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020", "surrogate": "20, Solanki, Mira-Bhayandar-255416"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 0.95, "original": "022-68052182", "surrogate": "711-15561696"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "Ipocmg@icicibank.com", "surrogate": "kagate@sandhugroup.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicibank.com", "surrogate": "www.sandhugroup.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Varun Badai", "surrogate": "Lopa Dara"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INBI00000004", "surrogate": "INBI34666217"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "L65190GJ1994PLC021012", "surrogate": "L36865EB1958LTD170471"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India", "surrogate": "18/61, Patla Ganj, Barasat 058659"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752929", "surrogate": "+91 19 09779625"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752928", "surrogate": "+91 32 69124452"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752914", "surrogate": "+91 04 04844390"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "siddharth.jadhav@hdfcbank.com", "surrogate": "gagan.khosla@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "sachin.gawade@hdfcbank.com", "surrogate": "nikita.bose@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "eric.bacha@hdfcbank.com", "surrogate": "yuvraj.sachdev@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "tushar.gavankar@hdfcbank.com", "surrogate": "isaiah.panchal@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "pravin.teli2@hdfcbank.com", "surrogate": "vamakshi.teli2@dadagroup.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.hdfcbank.com", "surrogate": "www.dadagroup.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Eric Bacha", "surrogate": "Yuvraj Sachdev"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sachin Gawade", "surrogate": "Nikita Bose"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pravin Teli", "surrogate": "Vamakshi Chakrabarti"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Siddharth Jadhav", "surrogate": "Gagan Khosla"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Tushar Gavankar", "surrogate": "Isaiah Panchal"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INBI00000063", "surrogate": "INBI94761497"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "L65920MH1994PLC080618", "surrogate": "L60070BU2021LTD686938"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank Limited", "surrogate": "Sandhu Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020", "surrogate": "20, Solanki, Mira-Bhayandar-255416"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 0.95, "original": "022-68052182", "surrogate": "711-15561696"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "Ipocmg@icicibank.com", "surrogate": "kagate@sandhugroup.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicibank.com", "surrogate": "www.sandhugroup.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Varun Badai", "surrogate": "Lopa Dara"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INBI00000004", "surrogate": "INBI34666217"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "L65190GJ1994PLC021012", "surrogate": "L36865EB1958LTD170471"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India", "surrogate": "18/61, Patla Ganj, Barasat 058659"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752929", "surrogate": "+91 19 09779625"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752928", "surrogate": "+91 32 69124452"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 30752914", "surrogate": "+91 04 04844390"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "siddharth.jadhav@hdfcbank.com", "surrogate": "gagan.khosla@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "sachin.gawade@hdfcbank.com", "surrogate": "nikita.bose@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "eric.bacha@hdfcbank.com", "surrogate": "yuvraj.sachdev@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "tushar.gavankar@hdfcbank.com", "surrogate": "isaiah.panchal@dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "pravin.teli2@hdfcbank.com", "surrogate": "vamakshi.teli2@dadagroup.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.hdfcbank.com", "surrogate": "www.dadagroup.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Eric Bacha", "surrogate": "Yuvraj Sachdev"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sachin Gawade", "surrogate": "Nikita Bose"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pravin Teli", "surrogate": "Vamakshi Chakrabarti"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Siddharth Jadhav", "surrogate": "Gagan Khosla"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Tushar Gavankar", "surrogate": "Isaiah Panchal"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INBI00000063", "surrogate": "INBI94761497"}
+{"type": "CIN", "detector": "cin.regex", "confidence": 1.0, "original": "L65920MH1994PLC080618", "surrogate": "L60070BU2021LTD686938"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit, LLP", "surrogate": "Dayal-Natt LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit, LLP", "surrogate": "Dayal-Natt LLP"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "5th Floor", "surrogate": "H.No. 31, Gola Path, Dewas-081934"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Wing A", "surrogate": "96/44, Mani Path, Jamalpur 382616"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "parag.pansare@kirtanepandit.com", "surrogate": "gkhosla@paichakrabarti.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 (20) 6729 5100", "surrogate": "+ 91 (36) 9787 4554"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "105215W/ W100057", "surrogate": "H.No. 49, Jayaraman Street, Gangtok 224892"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Koregaon Park, Pune – 411 001 Maharashtra, India", "surrogate": "368, Swaminathan Chowk, Sangli-Miraj & Kupwad 791725"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 20 6606 4494", "surrogate": "+91 20 1947 2714"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Hitesh Ramani", "surrogate": "Parth Guha"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "http://commercialbanking.citibank.com", "surrogate": "http://thamanmishraandpatla.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "hitesh.ramani@citi.com", "surrogate": "parth.guha@rattainc.com"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Signature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India", "surrogate": "H.No. 379, Khatri Street, Howrah 481411"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 20 2640 3100", "surrogate": "+91 97 4212 2917"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Chitra Raste", "surrogate": "Forum Patla"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.eximbankindia.in/", "surrogate": "www.tankchacko.in/"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "pro@eximbankindia.in", "surrogate": "borakeya@tankchacko.in"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "IndusInd Bank Limited", "surrogate": "Kamdar-Mukhopadhyay Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.9, "original": "2401 Gen Thimmayya Road", "surrogate": "05, Goda Ganj, Kanpur-000587"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91-20-26234000", "surrogate": "+91-18-49668150"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sharmila Joshi", "surrogate": "Idika Sarna"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.indusind.com/", "surrogate": "www.majumdarkalita.com/"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "sharmila.joshi@indusind.com", "surrogate": "idika.barad@majumdarkalita.com"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank Limited", "surrogate": "Sandhu Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank", "surrogate": "Sandhu Group"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Bund Garden Road, Pune – 411 001 Maharashtra, India", "surrogate": "04, Ravel Path, Indore 026349"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 8879770456", "surrogate": "+ 91 7989405207"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Cherag Gyara", "surrogate": "Shivansh Goel"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicibank.com", "surrogate": "www.sandhugroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "cherag.gyara@icicibank.com", "surrogate": "shivansh.goel@sandhugroup.com"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "5th Floor", "surrogate": "H.No. 31, Gola Path, Dewas-081934"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Bund Garden Road", "surrogate": "H.No. 63, Peri Circle, Bilaspur 352606"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 20 6769 4648", "surrogate": "+91 81 1869 2671"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Manisha Shukla", "surrogate": "Tanvi Memon"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.hdfcbank.com", "surrogate": "www.dadagroup.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "manisha.shukla@hdfcbank.com", "surrogate": "tanvi.memon@dadagroup.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 20 2561 8211", "surrogate": "+91 19 4845 8261"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Tushar Wakhele", "surrogate": "Nakul Roy"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.sbi.co.in", "surrogate": "www.bavarout.co.in"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "rm6.ifbpune@sbi.co.in", "surrogate": "bachittarbadami@bavarout.co.in"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 91586 40360", "surrogate": "+ 91 30154 66652"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ashish Mathew Pulloor", "surrogate": "Baghyawati Sanaya Pathak"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.federalbank.co.in", "surrogate": "www.acharyainc.co.in"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ashishmp@federalbank.co.in", "surrogate": "simonchopra@acharyainc.co.in"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Bajaj Finance Limited", "surrogate": "Mitra-Dhaliwal Limited"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 20 7157 6403", "surrogate": "+91 22 1786 3837"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Anand Soni", "surrogate": "Vaishnavi Dave"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.bajajfinance.com", "surrogate": "www.mitradhaliwal.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "anand.soni@bajajfinserv.in", "surrogate": "vaishnavi.dave@maniandsons.in"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Ratings Limited", "surrogate": "Behl Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Bandra Kurla Complex, Bandra (E) Mumbai – 400 051, Maharashtra, India", "surrogate": "89/782, Kalla Zila, Baranagar-248035"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501", "surrogate": "12/426, Wason Ganj, Pimpri-Chinchwad 971044"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045", "surrogate": "10/833, Nagy Circle, Kozhikode-989492"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "cs.connect@kshinternational.com", "surrogate": "wparmar@bumbmurty.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 20 45053237", "surrogate": "+ 91 56 21540260"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.kshinternational", "surrogate": "www.bumbmurty.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "KUSHAL SUBBAYYA HEGDE", "surrogate": "AMRITA EKAVIR CHAUDHARY"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "PUSHPA KUSHAL HEGDE", "surrogate": "JACKSON PUSHTI NANDA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "RAJESH KUSHAL HEGDE", "surrogate": "NITARA ONI BORA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "ROHIT KUSHAL HEGDE", "surrogate": "NATHANIEL TANVEER KALITA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "RAKHI GIRIJA SHETTY", "surrogate": "XAVIER QADIM MAGAR"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "DHAULAGIRI FAMILY TRUST", "surrogate": "MAJUMDAR FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "EVEREST FAMILY TRUST", "surrogate": "KRISHNA-BHATNAGAR FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MAKALU FAMILY TRUST", "surrogate": "RAMA GROUP FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "BROAD FAMILY TRUST", "surrogate": "BHAKTA-GANGULY FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ANNAPURNA FAMILY TRUST", "surrogate": "JANI FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KANCHENJUNGA FAMILY TRUST", "surrogate": "SUBRAMANIAM-AGATE FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED", "surrogate": "KADE-DATTA PRIVATE LIMITED"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama\tWealth Management Limited", "surrogate": "Agarwal Group"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Lokesh Shah", "surrogate": "Eiravati Manne"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Soumavo Sarkar", "surrogate": "Dalaja Chad"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh.ipo@nuvama.com", "surrogate": "benyoshita@ganeshltd.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 4009 4400", "surrogate": "+91 21 9217 7013"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI\tSecurities Limited", "surrogate": "Ratti-Muni"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kishan Rastogi", "surrogate": "Charita Mody"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Abhijit Diwan", "surrogate": "Lohit Bassi"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh@icicisecurities.com", "surrogate": "abhimanyu17@bhat.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 6807 7100", "surrogate": "+91 36 2811 7514"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MUFG Intime India Private Limited", "surrogate": "Khalsa-Kumar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Link Intime India Private Limited", "surrogate": "Desai-Bhasin Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Shanti Gopalkrishnan", "surrogate": "Charan Vasa"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 81081 14949", "surrogate": "+91 93777 52787"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "kshinternational.ipo@in.mpms.mufg.com", "surrogate": "lokeojasvi@balikala.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "KUSHAL SUBBAYYA HEGDE", "surrogate": "AMRITA EKAVIR CHAUDHARY"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "PUSHPA KUSHAL HEGDE", "surrogate": "JACKSON PUSHTI NANDA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "RAJESH KUSHAL HEGDE", "surrogate": "NITARA ONI BORA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "ROHIT KUSHAL HEGDE", "surrogate": "NATHANIEL TANVEER KALITA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "RAKHI GIRIJA SHETTY", "surrogate": "XAVIER QADIM MAGAR"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "DHAULAGIRI FAMILY TRUST", "surrogate": "MAJUMDAR FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MAKALU FAMILY TRUST", "surrogate": "RAMA GROUP FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "BROAD FAMILY TRUST", "surrogate": "BHAKTA-GANGULY FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ANNAPURNA FAMILY TRUST", "surrogate": "JANI FAMILY TRUST"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KANCHENJUNGA FAMILY TRUST AND WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED", "surrogate": "BEDI-DORA PRIVATE LIMITED"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH INTERNATIONAL LIMITED", "surrogate": "BUMB-MURTY LIMITED"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "KUSHAL SUBBAYYA HEGDE", "surrogate": "AMRITA EKAVIR CHAUDHARY"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "PUSHPA KUSHAL HEGDE", "surrogate": "JACKSON PUSHTI NANDA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "RAJESH KUSHAL HEGDE", "surrogate": "NITARA ONI BORA"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "ROHIT KUSHAL HEGDE", "surrogate": "NATHANIEL TANVEER KALITA"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India", "surrogate": "07/437, Dave Ganj, Siwan-187045"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 40094400", "surrogate": "+91 45 40429824"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh.ipo@nuvama.com", "surrogate": "benyoshita@ganeshltd.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.nuvama.com", "surrogate": "www.ganeshltd.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "customerservice.mb@nuvama.com", "surrogate": "kdhar@ganeshltd.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Lokesh Shah", "surrogate": "Eiravati Manne"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Soumavo Sarkar", "surrogate": "Dalaja Chad"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INM000013004", "surrogate": "INM623321755"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025, Maharashtra, India", "surrogate": "H.No. 17, Dash Circle, Mehsana-120189"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 22 6807 7100", "surrogate": "+91 36 2811 7514"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "ksh@icicisecurities.com", "surrogate": "abhimanyu17@bhat.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.icicisecurities.com", "surrogate": "www.bhat.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "customercare@icicisecurities.com", "surrogate": "haritapatla@bhat.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kishan Rastogi", "surrogate": "Charita Mody"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Abhijit Diwan", "surrogate": "Lohit Bassi"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INM000011179", "surrogate": "INM584118193"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MUFG Intime India Private Limited", "surrogate": "Khalsa-Kumar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Link Intime India Private Limited", "surrogate": "Desai-Bhasin Private Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India", "surrogate": "09/71, Narayanan Path, Surat 958950"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+91 81081 14949", "surrogate": "+91 93777 52787"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "kshinternational.ipo@in.mpms.mufg.com", "surrogate": "lokeojasvi@balikala.com"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "www.in.mpms.mufg.com", "surrogate": "www.balikala.com"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "kshinternational.ipo@in.mpms.mufg.com", "surrogate": "lokeojasvi@balikala.com"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Shanti Gopalkrishnan", "surrogate": "Charan Vasa"}
+{"type": "REG_ID", "detector": "reg_id.regex", "confidence": 1.0, "original": "INR000004058", "surrogate": "INR777839474"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH International Limited", "surrogate": "Bumb-Murty Limited"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India", "surrogate": "H.No. 28, Yadav Ganj, Bhind-312787"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit LLP", "surrogate": "Pai-Chakrabarti LLP"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "URL", "detector": "url.regex", "confidence": 0.9, "original": "https://kshinternational.com/investor-relations/industry-report/", "surrogate": "https://bumbmurty.com/investor-relations/industry-report/"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sandesh Bhagwat", "surrogate": "Ijaya Dubey"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Amod Joshi", "surrogate": "Aradhana Barad"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sarthak Malvadkar", "surrogate": "Chaman Nath"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India", "surrogate": "512, Dara Street, Bikaner 490005"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park VI Private Limited", "surrogate": "Kade-Datta Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Motors Private Limited", "surrogate": "Acharya-Sankar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Project Management Services Private Limited", "surrogate": "Sura-Nagy Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park 5 Private Limited", "surrogate": "Mannan-Handa Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park VI Private Limited", "surrogate": "Kamdar-Bose Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Distriparks Private Limited", "surrogate": "Parekh-Choudhry Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Integrated Logistics Private Limited", "surrogate": "Madan Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kushal Motors and Electricals Private Limited", "surrogate": "Choudhary Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park I Private Limited", "surrogate": "Karnik Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park II Private Limited", "surrogate": "Radhakrishnan Group Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park III Private Limited", "surrogate": "Raju Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IV Private Limited", "surrogate": "Kakar-Shah Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park V Private Limited", "surrogate": "Saraf-Dani Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park VI Private Limited", "surrogate": "Kade-Datta Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park VIII Private Limited", "surrogate": "Upadhyay Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX Private Limited", "surrogate": "Dua-Barad Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX B Private Limited", "surrogate": "Balakrishnan Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Industrial Park IX A", "surrogate": "Sibal-Parmar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "KSH Infra Park IV Private Limited", "surrogate": "Ghosh Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Analytics and Advisory Private Limited", "surrogate": "Chanda-Gupta Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust and Waterloo Industrial Park VI Private Limited", "surrogate": "Devan Karnik and Pingle"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India", "surrogate": "00/35, Basak Circle, Berhampore 338016"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "J-25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India", "surrogate": "87, Rajagopalan Zila, Satna 769376"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India", "surrogate": "H.No. 28, Yadav Ganj, Bhind-312787"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India", "surrogate": "73/58, Maharaj, Kakinada-018428"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities", "surrogate": "Bhat"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "CARE Ratings Limited", "surrogate": "Behl Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank Limited", "surrogate": "Sandhu Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MUFG Intime India Private Limited", "surrogate": "Khalsa-Kumar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Link Intime India Private Limited", "surrogate": "Desai-Bhasin Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "MUFG Intime India Private Limited", "surrogate": "Khalsa-Kumar Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Link Intime India Private Limited", "surrogate": "Desai-Bhasin Private Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "HDFC Bank Limited", "surrogate": "Dada Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Bank Limited", "surrogate": "Sandhu Group Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Nuvama Wealth Management Limited", "surrogate": "Mangat-Pai Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "ICICI Securities Limited", "surrogate": "Bhat Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Precision Wires India Limited", "surrogate": "Aggarwal-More Limited"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Solar Energy Corporation of India Limited", "surrogate": "Gole-Prasad Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Maithili Rajesh Hegde", "surrogate": "Jairaj Luke Bala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Katyayani Balasubramanian", "surrogate": "Hredhaan Rajagopal"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal\tSubbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa\tKushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh\tKushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit\tKushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest\tFamily Trust", "surrogate": "Rajan-Bedi"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu\tFamily Trust", "surrogate": "Madan-Devi"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Maithili\tRajesh Hegde", "surrogate": "Jairaj Luke Bala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Katyayani Balasubramanian", "surrogate": "Hredhaan Rajagopal"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Malabar India Fund Limited", "surrogate": "Ratta-Mohan Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rupal K. Sancheti", "surrogate": "Robert D. Sachar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Salil Ajay Bhargava", "surrogate": "Gabriel Tanvi Khatri"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Jabeen Ajay Menon", "surrogate": "Turvi Aachal Dey"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ajay Menon", "surrogate": "Aachal Dey"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Sunil\tNagayya Shetty", "surrogate": "Aarnav Omaja Bail"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Waterloo Motors", "surrogate": "Acharya-Sankar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Parijat Foundation", "surrogate": "Banerjee-Choudhary Foundation"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Maithili Rajesh Hegde", "surrogate": "Jairaj Luke Bala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Maithili Rajesh Hegde", "surrogate": "Jairaj Luke Bala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Katyayani Balasubramanian", "surrogate": "Hredhaan Rajagopal"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Katyayani Balasubramanian", "surrogate": "Hredhaan Rajagopal"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Dhaulagiri Family Trust", "surrogate": "Majumdar Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Makalu Family Trust", "surrogate": "Rama Group Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Everest Family Trust", "surrogate": "Krishna-Bhatnagar Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kanchenjunga Family Trust", "surrogate": "Subramaniam-Agate Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Annapurna Family Trust", "surrogate": "Jani Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Broad Family Trust", "surrogate": "Bhakta-Ganguly Family Trust"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "DM Shetty", "surrogate": "Chanakya Prabhu"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar Bhandary", "surrogate": "Adya Vala"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "SA Shetty", "surrogate": "Owen Kashyap"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Jayaram Shetty", "surrogate": "Devika Savant"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar Hegde", "surrogate": "Tanmayi Raval"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar Hegde", "surrogate": "Tanmayi Raval"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar Hegde", "surrogate": "Tanmayi Raval"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Narayana B. Shetty", "surrogate": "Nathaniel Y. Sachar"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Shubhkamal Leasing and Investment Private Limited", "surrogate": "Palan-Arora Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Hegde", "surrogate": "Nathaniel Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Karunakar Hegde", "surrogate": "Tanmayi Raval"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Shubhkamal Leasing and Investment Private Limited", "surrogate": "Palan-Arora Private Limited"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Hegde", "surrogate": "Nitara Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Vijay Hegde", "surrogate": "Keya Ahluwalia"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Hegde", "surrogate": "Nathaniel Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Vijay Hegde", "surrogate": "Keya Ahluwalia"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Hegde", "surrogate": "Nitara Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Hegde", "surrogate": "Nathaniel Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Hegde", "surrogate": "Amrita Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Hegde", "surrogate": "Nitara Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Hegde", "surrogate": "Nathaniel Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Hegde", "surrogate": "Jackson Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Pushpa Kushal Hegde", "surrogate": "Jackson Pushti Nanda"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Kushal Subbayya Hegde", "surrogate": "Amrita Ekavir Chaudhary"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "00135070", "surrogate": "02121174"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Deccan Gymkhana", "surrogate": "456, Balay, Singrauli-179561"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune – 411 004 Maharashtra, India", "surrogate": "79/87, Wadhwa Chowk, Bhalswa Jahangir Pur 361503"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rajesh Kushal Hegde", "surrogate": "Nitara Oni Bora"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "00114193", "surrogate": "02733952"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India", "surrogate": "H.No. 43, Sule Zila, Khora -276875"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rohit Kushal Hegde", "surrogate": "Nathaniel Tanveer Kalita"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "00134926", "surrogate": "00775466"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Prabhat Road", "surrogate": "56/87, Pathak, Bikaner 215755"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India", "surrogate": "H.No. 66, Gera Zila, Mangalore-881161"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Rakhi Girija Shetty", "surrogate": "Xavier Qadim Magar"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "03124510", "surrogate": "07883927"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "Deccan Gymkhana", "surrogate": "456, Balay, Singrauli-179561"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India", "surrogate": "39/430, Varkey Chowk, Jalna-552588"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Dinesh Hirachand Munot", "surrogate": "Madhavi Unni Vasa"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "00049801", "surrogate": "04506075"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India", "surrogate": "H.No. 696, Om Path, Maheshtala-202141"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ajay Shriram Patil", "surrogate": "Zinal Vamakshi Chander"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "01217000", "surrogate": "00824356"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India", "surrogate": "72/994, Yadav Zila, Guwahati 225431"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Ram Kumar Tiwari", "surrogate": "Mekhala Chatresh Sampath"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "A-259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India", "surrogate": "02/17, Chawla Street, Panipat-028658"}
+{"type": "PERSON", "detector": "person.seed+gazetteer", "confidence": 1.0, "original": "Indu Jacob", "surrogate": "Maya Sidhu"}
+{"type": "DIN", "detector": "din.regex", "confidence": 0.7, "original": "05293084", "surrogate": "01286871"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India", "surrogate": "22, Tak, Jaunpur 652408"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Kirtane & Pandit, LLP", "surrogate": "Dayal-Natt LLP"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "5th Floor", "surrogate": "H.No. 31, Gola Path, Dewas-081934"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038", "surrogate": "H.No. 22, Yogi Chowk, Nandyal 205921"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "parag.pansare@kirtanepandit.com", "surrogate": "gkhosla@paichakrabarti.com"}
+{"type": "PHONE", "detector": "phone.regex", "confidence": 1.0, "original": "+ 91 20 6729 5100", "surrogate": "+ 91 68 5597 1590"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.8, "original": "105215W/ W100057", "surrogate": "H.No. 49, Jayaraman Street, Gangtok 224892"}
+{"type": "ORG", "detector": "org.suffix+gazetteer", "confidence": 0.9, "original": "Hingne Tare & Associates", "surrogate": "Gopal Associates"}
+{"type": "ADDRESS", "detector": "address.anchored+gazetteer", "confidence": 0.85, "original": "102, Sai Complex Shaniwar Peth, Pune – 411 030 Maharashtra, India", "surrogate": "29/847, Jain Ganj, Madhyamgram-038942"}
+{"type": "EMAIL", "detector": "email.regex", "confidence": 1.0, "original": "hingnetare@gmail.com", "surrogate": "amol98@shuklanarasimhan.com"}

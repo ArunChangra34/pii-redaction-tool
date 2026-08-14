@@ -1,0 +1,7 @@
+python-docx>=1.1.0
+Faker>=25.0.0
+
+# Optional: enables the spaCy NER layer.  The tool runs without it and falls
+# back to the rule layer automatically.
+#   pip install spacy && python -m spacy download en_core_web_lg
+# spacy>=3.7

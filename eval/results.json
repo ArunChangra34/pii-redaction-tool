@@ -1,0 +1,398 @@
+{
+  "overall": {
+    "tokens": 6968,
+    "pii_tokens_gold": 351,
+    "pii_tokens_pred": 341,
+    "accuracy": 0.9986,
+    "micro": {
+      "precision": 1.0,
+      "recall": 0.9715,
+      "f1": 0.9855
+    },
+    "macro": {
+      "precision": 1.0,
+      "recall": 0.9853,
+      "f1": 0.9922
+    },
+    "per_type": {
+      "ADDRESS": {
+        "support": 28,
+        "tp": 28,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "CIN": {
+        "support": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "support": 76,
+        "tp": 76,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "support": 85,
+        "tp": 75,
+        "fp": 0,
+        "fn": 10,
+        "precision": 1.0,
+        "recall": 0.8824,
+        "f1": 0.9375
+      },
+      "PERSON": {
+        "support": 83,
+        "tp": 83,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "support": 50,
+        "tp": 50,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "REG_ID": {
+        "support": 3,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "URL": {
+        "support": 25,
+        "tp": 25,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
+  },
+  "by_stratum": {
+    "A_pii_dense": {
+      "tokens": 3785,
+      "pii_tokens_gold": 261,
+      "pii_tokens_pred": 257,
+      "accuracy": 0.9989,
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.9847,
+        "f1": 0.9923
+      },
+      "macro": {
+        "precision": 1.0,
+        "recall": 0.9841,
+        "f1": 0.9917
+      },
+      "per_type": {
+        "EMAIL": {
+          "support": 76,
+          "tp": 76,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "support": 42,
+          "tp": 38,
+          "fp": 0,
+          "fn": 4,
+          "precision": 1.0,
+          "recall": 0.9048,
+          "f1": 0.95
+        },
+        "PERSON": {
+          "support": 65,
+          "tp": 65,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "support": 50,
+          "tp": 50,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "REG_ID": {
+          "support": 3,
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "URL": {
+          "support": 25,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      }
+    },
+    "B_random_prose": {
+      "tokens": 3183,
+      "pii_tokens_gold": 90,
+      "pii_tokens_pred": 84,
+      "accuracy": 0.9981,
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.9333,
+        "f1": 0.9655
+      },
+      "macro": {
+        "precision": 1.0,
+        "recall": 0.9651,
+        "f1": 0.9812
+      },
+      "per_type": {
+        "ADDRESS": {
+          "support": 28,
+          "tp": 28,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "CIN": {
+          "support": 1,
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "support": 43,
+          "tp": 37,
+          "fp": 0,
+          "fn": 6,
+          "precision": 1.0,
+          "recall": 0.8605,
+          "f1": 0.925
+        },
+        "PERSON": {
+          "support": 18,
+          "tp": 18,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      }
+    }
+  },
+  "required_types_absent_from_gold_sample": [
+    "SSN",
+    "CREDIT_CARD",
+    "DATE_OF_BIRTH",
+    "IP_ADDRESS"
+  ],
+  "errors": [
+    {
+      "paragraph": 67,
+      "token": "Financial",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 67,
+      "token": "Express",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 67,
+      "token": "Jansatta",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 67,
+      "token": "Loksatta",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 97,
+      "token": "Sterlite",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 97,
+      "token": "Copper",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 122,
+      "token": "Chakan",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 122,
+      "token": "Internal",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 122,
+      "token": "Kamgar",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    },
+    {
+      "paragraph": 122,
+      "token": "Sangathna",
+      "gold": "ORG",
+      "pred": "O",
+      "kind": "FN"
+    }
+  ],
+  "synthetic": {
+    "tokens": 137,
+    "pii_tokens_gold": 48,
+    "pii_tokens_pred": 48,
+    "accuracy": 1.0,
+    "micro": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "macro": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "per_type": {
+      "AADHAAR": {
+        "support": 3,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ADDRESS": {
+        "support": 9,
+        "tp": 9,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "CREDIT_CARD": {
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DATE_OF_BIRTH": {
+        "support": 9,
+        "tp": 9,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "support": 7,
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IP_ADDRESS": {
+        "support": 7,
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PAN": {
+        "support": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "support": 3,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "SSN": {
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "failures": []
+  }
+}
